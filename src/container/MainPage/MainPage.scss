@@ -1,0 +1,25 @@
+.main-page {
+    text-align: center;
+
+    input {
+        border-radius: 25px;
+        height: 30px;
+        outline: none;
+        text-align: center;
+        margin-top:5px
+    }
+    .single-row {
+        display: block;
+    }
+    .rows-columns-container{
+        text-align: center;
+         width: 1000px;
+         white-space: nowrap;
+         overflow-y: auto;
+         overflow-x: auto;
+         height: auto;
+         max-height: 500px;
+         margin: auto;
+    }
+
+}
