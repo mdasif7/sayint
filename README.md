@@ -1,4 +1,4 @@
-Please clone the repo then " npm install" after that run the application using "npm start"
+Please clone the repo then cd sayint, after that run " npm install" after that run the application using "npm start"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
